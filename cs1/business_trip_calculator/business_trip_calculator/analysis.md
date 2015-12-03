@@ -21,7 +21,7 @@ return time:           21:00
 ```
 
 ### Airfair                
-If user enter 300 for total airfair,
+If user enters 300 for total airfair,
 ```
 **TODO**
 Total expenses:          $  ???
@@ -31,7 +31,7 @@ Saved                    $  ???
 ```
 
 ### car rental         
-If user enter 200 for total car rental fees,
+If user enters 200 for total car rental fees,
 ```
 **TODO**
 Total expenses:          $  ???
@@ -41,7 +41,7 @@ Saved                    $  ???
 ```
 
 ### private vehicle  
-If user enter 50 for milage driven by private vehicle
+If user enters 50 for milage driven by private vehicle
 ```
 **TODO**
 Total expenses:          $  ???
@@ -51,7 +51,7 @@ Saved                    $  ???
 ```
 
 ### parking          
-If user enter 30 for total parking fees
+If user enters 30 for total parking fees
 ```
 **TODO**
 Total expenses:          $  ???
@@ -61,27 +61,27 @@ Saved                    $  ???
 ```
 
 ### taxi              
-If user enter 50 for total taxi fees
+If users enter 50 for total taxi fees
 ```
 **TODO**
-Total expenses:          $  ???
-Allowable expenses:      $  ???
-Out out pocket:          $  ???
-Saved                    $  ???
+Total expenses:          $  50.00;
+Allowable expenses:      $  30.00;
+Out out pocket:          $  20.00;
+Saved                    $   0.00;
 ```
 
 ### registration      
-If user enter 50 for total registration fees
+If user enters 50 for total registration fees
 ```
 **TODO**
-Total expenses:          $  ???
-Allowable expenses:      $  ???
-Out out pocket:          $  ???
-Saved                    $  ???
+Total expenses:          $  50.00;
+Allowable expenses:      $  N/A;
+Out out pocket:          $  50.00;
+Saved                    $  N/A
 ```
 
 ### hotel 
-If user enter 100 for nightly hotel room rate:
+If user enters 100 for nightly hotel room rate:
 
 - since the duration is longer than one day, hotel stay is allowed;
 - number of hotel stay: 3 - 1 = 2 nights;
@@ -121,7 +121,7 @@ Meals allowed
 - dinner:     Yes
 ```
 
-If user enter the following values for the meals:
+If user enters the following values for the meals:
 ```
 ----[Day 1]----
 Lunch:     10
